@@ -1,0 +1,25 @@
+.myAbout_handler .about_info p{
+    margin-bottom: 1.5em;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #000000b3;
+}
+.aboutBoxItem{
+    margin-bottom: 80px;
+    position: relative;
+    z-index: 0;
+    box-shadow: 0 0 56px -8px #0000002b;
+    border-bottom: 2px solid;
+    padding: 1.5em;
+}
+.aboutBoxItem i{
+    font-size: 30px;
+    /* color: #2c98f0; */
+}
+.aboutBoxItem h2{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
